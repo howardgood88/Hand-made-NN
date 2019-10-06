@@ -138,7 +138,7 @@ int main(){
 	while(1>0){
 		float array[2] = {0, 0};									//第二層layer之輸出array之初始化
 		float output[2] = {0, 0};									//output之初始化 
-		printf("please key in \"1, 0, 1, 0\" or \" 0, 1, 0, 1\" 2*2 array to test\n");
+		printf("please key in \"1 0 1 0\" or \"0 1 0 1\" 2*2 array to test\n");
 		scanf("%f%f%f%f", &a1, &a2, &a3, &a4);
 		test[0] = a1;
 		test[1] = a2;
