@@ -1,2 +1,2 @@
-# ML practice
-專題、作業以及私下練習之ML code
+# Simple hand-made NN
+This is a simple 2-layer NN for practice.
